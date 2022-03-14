@@ -31,6 +31,7 @@ node app.js
 ## Links
 - Reference projects:
   - iPad LiDAR Depth Sample for Unity: https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity
+  - VR Online Office Template: https://assetstore.unity.com/packages/tools/network/vr-online-office-template-182766
 
 ## Licensing
 Licensed under the [MIT License](./LICENSE).
