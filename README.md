@@ -30,10 +30,10 @@ node app.js
 - Tested using Oculus Quest 2 and iPhone 12 Pro Max
 
 ## Links
-- Reference projects and required assets for building the project:
+- Reference project for point clouds acquisition:
   - iPad LiDAR Depth Sample for Unity: https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity
 
-- Assets required for building the VR client application
+- Assets required for building the VR client application:
   - VR Online Office Template: https://assetstore.unity.com/packages/tools/network/vr-online-office-template-182766
 
 ## Licensing
