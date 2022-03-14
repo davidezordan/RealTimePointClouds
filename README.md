@@ -27,10 +27,13 @@ node app.js
 - [Unity for Mac Release 2021.2.7f1](https://unity3d.com/unity/whats-new/2021.2.7)
 - [Unity AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html)
 - [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
+- Tested using Oculus Quest 2 and iPhone 12 Pro Max
 
 ## Links
 - Reference projects and required assets for building the project:
   - iPad LiDAR Depth Sample for Unity: https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity
+
+- Assets required for building the VR client application
   - VR Online Office Template: https://assetstore.unity.com/packages/tools/network/vr-online-office-template-182766
 
 ## Licensing
