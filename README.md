@@ -29,7 +29,7 @@ node app.js
 - [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
 
 ## Links
-- Reference projects:
+- Reference projects and required assets for building the project:
   - iPad LiDAR Depth Sample for Unity: https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity
   - VR Online Office Template: https://assetstore.unity.com/packages/tools/network/vr-online-office-template-182766
 
