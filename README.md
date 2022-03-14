@@ -18,7 +18,7 @@ The software sample enable the real-time transmission of a 3D scene captured wit
 ```
 cd WebSocket
 nom install
-node app.ps
+node app.js
 ```
 
 # Versions Used
