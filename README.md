@@ -16,12 +16,17 @@ The software sample enable the real-time transmission using point clouds of a 3D
 
 ### Steps:
 - Clone the project
+- Install Node.js (alternatively, the WebSocket server can be hosted on a PaaS platform like Azure App Service)
 - Launch the WebSocket server:
 ```
 cd WebSocket
-nom install
+npm install
 node app.js
 ```
+- Modify the endpoint URL on the *Utils/WebSocketHelper* project
+- Open the Unity project *Telepresence Client* and deploy it to an iPhone Pro or Pro Max device
+- Open the Unity project *Telepresence Receiver* and deploy it to a mobile VR headset (e.g. Oculus Quest 2)
+- Execute the corresponding projects to visualise the VR scene and point clouds in the VR headset
 
 ## Versions Used
 - [Unity for Mac Release 2021.2.7f1](https://unity3d.com/unity/whats-new/2021.2.7)
