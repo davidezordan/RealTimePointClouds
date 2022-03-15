@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Receiver/AugmentedObjectsCloudViewerOculus.unity
+    guid: 7f82867075cf0ba4dbe1a25b13a933d0
+  - enabled: 1
+    path: Assets/Scenes/Receiver/Telepresence VR.unity
+    guid: d14e2976c2d414e9697cdb36338dac2f
+  - enabled: 0
+    path: Assets/VR Office/Scenes/Office.unity
+    guid: 46d48157db53b1b4786da2f23a8e4933
+  - enabled: 0
+    path: Assets/Scenes/WorldInteractionDemo.unity
+    guid: 3d16fc5db26e2354e9ac2a5031a52e6d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5716cd380ad6cc14e84d5b38ebc330f9, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 98c4b56217e65436fab3aebb1742849f, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: c73b900e4bace6d4db2eee9dbcce6484, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 12fb2884f45e57a48a232b374653f4dd, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e2628ade0b8474112ba3911c1d70dc29, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: c61aa5d3897ec4c38a44b3f8fa6c3982, type: 2}
