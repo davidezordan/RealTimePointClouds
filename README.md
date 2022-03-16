@@ -1,7 +1,7 @@
 # Remote Telepresence using AR and VR
 *Combining Augument and Virtual Reality for Remote Collaboration*
 
-This project has been developed as part of my Master's Degree dissertation.
+This project was developed as part of my Master's Degree dissertation.
 The software sample enable the real-time transmission using point clouds of a 3D scene captured with a mobile device to a VR headset.
 
 ![Screenshot](images/remote_telepresence.jpg)
