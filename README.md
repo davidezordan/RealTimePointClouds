@@ -4,6 +4,8 @@
 This project was developed as part of my Master's Degree dissertation.
 The software sample enable the real-time transmission using point clouds of a 3D scene captured with a mobile device to a VR headset.
 
+Point clouds acquisition has been adapted from the project [iPad LiDAR Depth Sample](https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity).
+
 ![Screenshot](images/remote_telepresence.jpg)
 
 ## Installation / Getting started
@@ -40,6 +42,8 @@ node app.js
 
 - Assets required for building the VR client application:
   - VR Online Office Template: https://assetstore.unity.com/packages/tools/network/vr-online-office-template-182766
+
+- Unity XR Interaction Toolkit: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/components.html
 
 ## Licensing
 Licensed under the [MIT License](./LICENSE).
