@@ -18,7 +18,7 @@ Point clouds acquisition has been adapted from the project [iPad LiDAR Depth Sam
 
 ### Steps:
 - Clone the project
-- Install Node.js (alternatively, the WebSocket server can be hosted on a PaaS platform like [Azure App Service](https://azure.microsoft.com/en-gb/services/app-service/)
+- Install [Node.js](https://nodejs.org/en/) (alternatively, the WebSocket server can be hosted on a PaaS platform like [Azure App Service](https://azure.microsoft.com/en-gb/services/app-service/))
 - Launch the WebSocket server:
 ```
 cd WebSocket
