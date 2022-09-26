@@ -2,7 +2,7 @@
 *Combining Augument and Virtual Reality for Remote Collaboration*
 
 This project was developed as part of my Master's Degree dissertation.
-The software sample enable the real-time transmission using point clouds of a 3D scene captured with a mobile device to a VR headset.
+The software sample enables the real-time transmission using point clouds of a 3D scene captured with a mobile device to a VR headset.
 
 Point clouds acquisition has been adapted from the project [iPad LiDAR Depth Sample](https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity).
 
