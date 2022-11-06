@@ -2,7 +2,7 @@
 *Combining Augmented and Virtual Reality for Remote Collaboration*.
 
 This project was developed as part of my Master's Degree dissertation.
-The sample enables real-time transmission using point clouds of a 3D scene captured with a mobile device to a VR headset.
+The sample enables real-time point clouds transmission of a 3D scene captured with a mobile device to a VR headset.
 
 More details about the implementation and findings have also been described in this session at the [Global XR Conference 2022](https://www.youtube.com/watch?v=fLJ_pID_-cA).
 
