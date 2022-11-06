@@ -4,7 +4,7 @@
 This project was developed as part of my Master's Degree dissertation.
 The sample enables real-time point clouds transmission of a 3D scene captured with a mobile device to a VR headset.
 
-More details about the implementation and findings have also been described in this session at the [Global XR Conference 2022](https://www.youtube.com/watch?v=fLJ_pID_-cA).
+More details about the implementation and findings have also been described in this session at the [Global XR Conference 2022](https://www.youtube.com/watch?v=fLJ_pID_-cA). Slides are available [here](https://davide.dev/global-xr-conference-2022-getting-started-real-time-point-clouds-ar-vr/).
 
 Point clouds acquisition has been adapted from the project [iPad LiDAR Depth Sample](https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity).
 
