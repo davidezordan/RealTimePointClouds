@@ -6,6 +6,8 @@ The sample enables real-time point clouds transmission of a 3D scene captured wi
 
 More details about the implementation and findings have also been described in this session at the [Global XR Conference 2022](https://www.youtube.com/watch?v=fLJ_pID_-cA).
 
+{% slideshare CPBjWToGHaZbTR %}
+
 Point clouds acquisition has been adapted from the project [iPad LiDAR Depth Sample](https://github.com/TakashiYoshinaga/iPad-LiDAR-Depth-Sample-for-Unity).
 
 ![Screenshot](images/remote_telepresence.jpg)
