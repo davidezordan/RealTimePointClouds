@@ -2,7 +2,7 @@
 *Combining Augmented and Virtual Reality for Remote Collaboration*.
 
 This project was developed as part of my Master's Degree dissertation.
-The sample enables real-time point clouds transmission of a 3D scene captured with a mobile device to a VR headset.
+The sample enables real-time point clouds transmission of a 3D scene, captured with a mobile device, to a VR headset.
 
 More details about the implementation and findings have also been described in this session at the [Global XR Conference 2022](https://www.youtube.com/watch?v=fLJ_pID_-cA). Slides are available [here](https://davide.dev/global-xr-conference-2022-getting-started-real-time-point-clouds-ar-vr/).
 
@@ -29,14 +29,14 @@ node app.js
 ```
 - Modify the endpoint URL on the *Utils/WebSocketHelper* project
 - Open the Unity project *Telepresence Client* and deploy it to an iPhone Pro or Pro Max device
-- Open the Unity project *Telepresence Receiver* and deploy it to a mobile VR headset (e.g. Oculus Quest 2)
+- Open the Unity project *Telepresence Receiver* and deploy it to a mobile VR headset (e.g. Meta Quest 2)
 - Execute the corresponding projects to visualise the VR scene and point clouds in the VR headset
 
 ## Versions Used
 - [Unity for Mac Release 2021.2.7f1](https://unity3d.com/unity/whats-new/2021.2.7)
 - [Unity AR Foundation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.1/manual/index.html)
 - [Unity XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
-- Tested using Oculus Quest 2 and iPhone 12 Pro Max
+- Tested using Meta Quest 2 and iPhone 12 Pro Max
 
 ## Links
 - Reference project for point clouds acquisition:
